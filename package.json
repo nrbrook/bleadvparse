@@ -1,0 +1,18 @@
+{
+  "name": "bleadvparse",
+  "version": "1.0.0",
+  "description": "A Node.js command line utility to parse BLE advertisement packets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type" : "git",
+    "url" : "git@github.com:nrbrook/bleadvparse.git"
+  },
+  "author": "Nick Brook",
+  "license": "MIT",
+  "dependencies": {
+    "bleadvertise": "^0.1.1"
+  }
+}
